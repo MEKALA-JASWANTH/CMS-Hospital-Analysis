@@ -1,0 +1,16 @@
+Feature,Importance,Rank
+Emergency_Flag,0.285,1
+National_Comparison_Readmission,0.198,2
+National_Comparison_Mortality,0.167,3
+Ownership_Non-profit,0.094,4
+State_California,0.062,5
+Hospital_Type_Acute_Care,0.048,6
+National_Comparison_Safety,0.041,7
+State_Texas,0.035,8
+Ownership_Government,0.031,9
+National_Comparison_Timeliness,0.028,10
+State_Florida,0.024,11
+Ownership_Private,0.022,12
+City_Los_Angeles,0.018,13
+Hospital_Type_Critical_Access,0.012,14
+City_New_York,0.009,15
