@@ -1,0 +1,31 @@
+Provider ID,Hospital Name,State,City,Hospital Type,Ownership,Emergency Services,Hospital overall rating,Emergency_Flag,HighRated,Readmission Rate,Mortality Rate,Safety Score,Timeliness Score
+P001,Mayo Clinic,MN,Rochester,Acute Care,Non-profit,Yes,5,1,1,0.12,0.05,0.92,0.88
+P002,Cleveland Clinic,OH,Cleveland,Acute Care,Non-profit,Yes,5,1,1,0.11,0.06,0.91,0.87
+P003,Massachusetts General,MA,Boston,Acute Care,Non-profit,Yes,5,1,1,0.10,0.04,0.93,0.89
+P004,Johns Hopkins,MD,Baltimore,Acute Care,Non-profit,Yes,5,1,1,0.09,0.03,0.94,0.90
+P005,Stanford Hospital,CA,Stanford,Acute Care,Non-profit,Yes,5,1,1,0.13,0.07,0.90,0.86
+P006,UCLA Medical,CA,Los Angeles,Acute Care,Non-profit,Yes,4,1,1,0.14,0.08,0.89,0.85
+P007,UCSF Medical,CA,San Francisco,Acute Care,Non-profit,Yes,4,1,1,0.15,0.09,0.88,0.84
+P008,Cedars-Sinai,CA,Los Angeles,Acute Care,Non-profit,Yes,4,1,1,0.16,0.10,0.87,0.83
+P009,Mt. Sinai,NY,New York,Acute Care,Non-profit,Yes,4,1,1,0.17,0.11,0.86,0.82
+P010,NewYork-Presbyterian,NY,New York,Acute Care,Non-profit,Yes,4,1,1,0.18,0.12,0.85,0.81
+P011,Northwestern,IL,Chicago,Acute Care,Non-profit,Yes,4,1,1,0.19,0.13,0.84,0.80
+P012,UC San Diego,CA,San Diego,Acute Care,Non-profit,Yes,4,1,1,0.20,0.14,0.83,0.79
+P013,Duke University,NC,Durham,Acute Care,Non-profit,Yes,4,1,1,0.21,0.15,0.82,0.78
+P014,University of PA,PA,Philadelphia,Acute Care,Non-profit,Yes,4,1,1,0.22,0.16,0.81,0.77
+P015,Emory Healthcare,GA,Atlanta,Acute Care,Non-profit,Yes,4,1,1,0.23,0.17,0.80,0.76
+P016,County Hospital A,TX,Houston,Acute Care,Government,Yes,3,1,0,0.35,0.20,0.70,0.65
+P017,County Hospital B,FL,Miami,Acute Care,Government,Yes,3,1,0,0.36,0.21,0.69,0.64
+P018,County Hospital C,CA,Los Angeles,Acute Care,Government,Yes,3,1,0,0.37,0.22,0.68,0.63
+P019,County Hospital D,NY,New York,Acute Care,Government,Yes,2,1,0,0.40,0.25,0.65,0.60
+P020,County Hospital E,IL,Chicago,Acute Care,Government,No,2,0,0,0.42,0.27,0.63,0.58
+P021,Rural Hospital A,MT,Billings,Critical Access,Government,No,2,0,0,0.45,0.30,0.60,0.55
+P022,Rural Hospital B,WY,Casper,Critical Access,Government,No,2,0,0,0.46,0.31,0.59,0.54
+P023,Rural Hospital C,ND,Bismarck,Critical Access,Government,No,1,0,0,0.50,0.35,0.55,0.50
+P024,Rural Hospital D,SD,Pierre,Critical Access,Government,No,1,0,0,0.52,0.37,0.53,0.48
+P025,Rural Hospital E,NE,Lincoln,Critical Access,Government,No,1,0,0,0.55,0.40,0.50,0.45
+P026,Private Hospital A,TX,Dallas,Acute Care,Private,Yes,4,1,1,0.18,0.08,0.85,0.82
+P027,Private Hospital B,FL,Orlando,Acute Care,Private,Yes,4,1,1,0.19,0.09,0.84,0.81
+P028,Private Hospital C,CA,San Jose,Acute Care,Private,Yes,3,1,0,0.30,0.15,0.75,0.70
+P029,Private Hospital D,AZ,Phoenix,Acute Care,Private,Yes,3,1,0,0.31,0.16,0.74,0.69
+P030,Private Hospital E,CO,Denver,Acute Care,Private,Yes,3,1,0,0.32,0.17,0.73,0.68
